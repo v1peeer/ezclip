@@ -1,7 +1,5 @@
 ![logo](https://i.imgur.com/HM26sJU.png)
 
-## THIS IS THE NEW REPO!!!
-
 # ezclip
 this app is a configurable, lightweight and open-source game clipping/recording software (so you can clip the moment when you 'ez clap' a friend (i know i'm not funny)).
 
